@@ -1,13 +1,13 @@
 <img src="assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hello, my name is Edson Lucas. I am <strong>Front-end Developer</strong> & <strong>UI Designer</strong>.<br />
+  Hello, my name is Edson Lucas. I am a<strong>Front-end Developer</strong> & <strong>UI Designer</strong>.<br />
   I am studying Information Systems at University of Vila Velha (UVV).
 </p>
 
 <p align="left">
   🏆  Skills: <strong>React JS, React Native and UI Design.</strong><br />
-  📚  Learning: Node JS and Edit videos.
+  📚  Learning: <strong>Node JS and Edit videos</strong>.
 </p>
 
 <p align="left">
