@@ -1,7 +1,7 @@
 <img src="assets/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computer">
 
 <p align="left"> 
-  Hello, my name is Edson Lucas. I am a<strong>Front-end Developer</strong> & <strong>UI Designer</strong>.<br />
+  Hello, my name is Edson Lucas. I am a <strong>Front-end Developer</strong> & <strong>UI Designer</strong>.<br />
   I am studying Information Systems at University of Vila Velha (UVV).
 </p>
 
