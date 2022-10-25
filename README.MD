@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Hello, my name is Edson Lucas. I am a <strong>Front-end Developer</strong> & <strong>UI Designer</strong>.<br />
-  I am studying Information Systems at University of Vila Velha (UVV).
+  I'm a System Analyst graduated at University of Vila Velha (UVV).
 </p>
 
 <p align="left">
